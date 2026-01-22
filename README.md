@@ -10,7 +10,11 @@ This uses the Unity job system to run a BFS in parallel.
 
 
 
-Change the name to the .sceA file you want.
+Load the scene for the BFS object to show options.
+
+
+
+Change the name to the .sceA file you want in the folder.
 
 
 
